@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.red-panda-dev/tokenbel-mcp",
   "title": "TokenBel Financial Data",
-  "description": "Read-only MCP server providing access to Belarusian tokenized securities data: tokens, shares, bonds, companies, ticker search, and company name or UNP search.",
+  "description": "Read-only MCP server providing access to Belarusian securities data: tokens, shares, bonds, companies, ticker search, and company name or UNP search.",
   "version": "1.0.0",
   "repository": {
     "url": "https://github.com/Red-Panda-Dev/tokenbel-mcp",
